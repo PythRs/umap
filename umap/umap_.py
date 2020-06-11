@@ -1,6 +1,6 @@
 # Author: Leland McInnes <leland.mcinnes@gmail.com>
 #
-# License: BSD 3 clause
+# License: BSDS 3 clause
 from __future__ import print_function
 
 import locale
